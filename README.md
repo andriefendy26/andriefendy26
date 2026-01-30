@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya Andri Efendy, seorang freelancer web developer. Saya memiliki ketertarikan dalam bidang pengembangan perangkat lunak, khususnya pada pengembangan aplikasi Android dan aplikasi berbasis web. Ketekunan saya dalam dunia pemrograman mendorong saya untuk terus belajar dan bereksperimen dengan berbagai teknologi guna menciptakan solusi digital yang inovatif dan bermanfaat.
+Saya Andri Efendy, seorang freelancer web developer. Saya memiliki ketertarikan dalam bidang pengembangan perangkat lunak, khususnya pada pengembangan aplikasi Android dan aplikasi berbasis web. Ketekunan saya dalam dunia pemrograman mendorong saya untuk terus belajar dan bereksperimen dengan berbagai teknologi guna menciptakan solusi digital yang inovatif dan bermanfaat
 
 
 ## 🌐 Socials:
